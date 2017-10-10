@@ -3,3 +3,5 @@
 * Bajari, P., & Hortaçsu, A. (2004). **Economic insights from internet auctions**. *Journal of Economic Literature*, 42(2), 457-486. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/Economic%20Insights%20from%20Internet%20Auctions.pdf) [[paper]](http://faculty.washington.edu/bajari/iosp07/auction_survey[10].pdf)
 
 * Donaldson, D., & Storeygard, A. (2016). **The view from above: applications of satellite data in economics**. *Journal of Economic Perspectives*, 30(4), 171-198. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/The%20View%20from%20Above%2C%20Applications%20of%20Satellite%0AData%20in%20Economics.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.30.4.171)
+
+* Allcott, H., & Gentzkow, M. (2017). **Social media and fake news in the 2016 election**. *Journal of Economic Perspectives*, 31(2): 211-36. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/Social%20media%20and%20fake%20news%20in%20the%202016%20election.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211)
