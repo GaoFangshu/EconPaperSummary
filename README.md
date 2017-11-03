@@ -8,3 +8,5 @@
 3. Allcott, H., & Gentzkow, M. (2017). **Social media and fake news in the 2016 election**. *Journal of Economic Perspectives*, 31(2): 211-36. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/003.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.211)
 
 4. Admati, A. R. (2017). **A skeptical view of financialized corporate governance**. *Journal of Economic Perspectives*, 31(3), 131-150. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/004.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.3.131)
+
+5. Acemoglu, D., & Robinson, J. A. (2015). **The Rise and Decline of General Laws of Capitalism**. *Journal of Economic Perspectives*, 29(1): 3-28. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/005.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.1.3)
