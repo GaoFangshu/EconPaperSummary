@@ -10,3 +10,9 @@
 4. Admati, A. R. (2017). **A skeptical view of financialized corporate governance**. *Journal of Economic Perspectives*, 31(3), 131-150. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/004.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.3.131)
 
 5. Acemoglu, D., & Robinson, J. A. (2015). **The Rise and Decline of General Laws of Capitalism**. *Journal of Economic Perspectives*, 29(1): 3-28. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/005.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.1.3)
+
+6. Cruz, C., Labonne, J., Querubín, P., Cruz, C., Labonne, J., & Querubín, P. (2017). **Politician family networks and electoral outcomes: evidence from the philippines**. *American Economic Review*, 107(10), 3006-37. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/006.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20150343)
+
+7. Martin, G. J. & Yurukoglu, A. (2017). **Bias in Cable News: Persuasion and Polarization**, *American Economic Review*, 107(9), 2565-99. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/006.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20160812)
+
+8. Ulrike, M. & Schmidt, K. M. (2017). **You Owe Me**. *American Economic Review*, 107(2): 493-526. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/006.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20140890)
