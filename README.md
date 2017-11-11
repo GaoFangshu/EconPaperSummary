@@ -17,4 +17,4 @@
 
 8. Ulrike, M. & Schmidt, K. M. (2017). **You Owe Me**. *American Economic Review*, 107(2): 493-526. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/006.pdf) [[paper]](http://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20140890)
 
-9. Bowles, S. & Polaniareyes, S. (2011). **Economic incentives and social preferences: substitutes or complements?**. *Journal of Economic Literature*, 50(2), 368-425. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/007.pdf) [[paper]](http://tuvalu.santafe.edu/~bowles/EconomicIncentives-final.pdf)
+9. Bowles, S. & Polaniareyes, S. (2012). **Economic incentives and social preferences: substitutes or complements?**. *Journal of Economic Literature*, 50(2), 368-425. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/007.pdf) [[paper]](http://tuvalu.santafe.edu/~bowles/EconomicIncentives-final.pdf)
