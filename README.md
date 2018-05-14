@@ -1,5 +1,5 @@
 # EconPaperSummary
-经济学论文概要，目前以 JEL 和 JEP 的综述文章为主，选题大多与个人兴趣有关，每周更新 :point_right:
+经济学论文概要，以 JEL 和 JEP 的综述文章为主，已暂停更新。
 
 1. Bajari, P. & Hortaçsu, A. (2004). **Economic insights from internet auctions**. *Journal of Economic Literature*, 42(2), 457-486. [[summary]](https://github.com/GaoFangshu/EconPaperSummary/blob/master/summary/001.pdf) [[paper]](http://faculty.washington.edu/bajari/iosp07/auction_survey[10].pdf)
 
